@@ -1,4 +1,5 @@
 "use client"
+export const dynamic = 'force-dynamic';
 
 import { useState } from "react"
 import ControlPanel from "@/app/components/tapBarOrder/tapbar"
